@@ -1,2 +1,2 @@
 #My Resume
-[View My Resume](Shweta_Wable_Resume.pdf)
+[View My Resume](Shweta_Resume.pdf)
